@@ -1,10 +1,10 @@
-# 标题
-### 标题
+### [视频资源1](https://www.bilibili.com/video/BV1Gq4y1M716)
 
-- 1
-- 2
-- 3
 
-[学习资源](https://baidu.com)
 
-## 第二天的学习
+
+### [视频资源2](https://www.bilibili.com/video/BV1Gq4y1M716)
+
+
+
+### [视频资源3](https://www.youtube.com/watch?v=W0hDkc45zWE&list=PLiuu3U8fVUy5jySDnlXCQZtLaagOQdm5I&index=2)
